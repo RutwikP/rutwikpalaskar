@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rutwik Palaskar"
   avatar           : "profile.png"
-  bio              : "Graduate Student\nMIT-ADT University\nPune"
+  bio              : "Graduate Student" "MIT-ADT University" "Pune"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
